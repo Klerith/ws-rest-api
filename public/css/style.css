@@ -1,0 +1,36 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+    background-color: #6951F0;
+    color: white;
+}
+
+table {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+
+.ticket-current {
+    background-color: #282828;
+}
+
+.ticket-current-number {
+    font-size: 80px;
+}
+
+.ticket-current-desk {
+    font-size: 45px;
+}
+
+.ticket-secondary {
+    font-size: 25px;
+}
+
+
+/* Nuevo-ticket */
+
+#lbl-new-ticket {
+    font-size: 70px;
+}
